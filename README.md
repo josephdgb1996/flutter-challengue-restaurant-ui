@@ -1,6 +1,5 @@
-# restaurant
-
-A new Flutter project.
+# Restaurant UI 
+Flutter UI minimalist design.
 
 ## Getting Started
 
